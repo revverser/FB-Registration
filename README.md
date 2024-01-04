@@ -12,5 +12,5 @@ Facebook account registration
   - source code
   - show cookies
   - mobile api
-  - checked in 02-01-2024 full working
+  - checked in 04-01-2024 full working
 - Contact : https://t.me/revverser
